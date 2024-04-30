@@ -34,5 +34,3 @@ require (
 	mleku.dev/git/nostr v1.1.22 // indirect
 	mleku.dev/git/slog v1.0.16 // indirect
 )
-
-replace github.com/relaytools/interceptor-proxy => /home/jeremy/nostr/koding-websocketproxy
