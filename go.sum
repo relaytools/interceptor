@@ -42,6 +42,8 @@ github.com/relaytools/interceptor-proxy v0.0.0-20240709215236-a4d0424e195f h1:Tm
 github.com/relaytools/interceptor-proxy v0.0.0-20240709215236-a4d0424e195f/go.mod h1:elN7vIkwyucqGBKlYaWIKFznLTsYK7YyRS/dgEe2elM=
 github.com/relaytools/interceptor-proxy v0.0.0-20240725201320-9201630dadce h1:eAm+LnPQcJM8ihfYx/VK8YaJ1g4TcJmFp/QdpDCFNLg=
 github.com/relaytools/interceptor-proxy v0.0.0-20240725201320-9201630dadce/go.mod h1:elN7vIkwyucqGBKlYaWIKFznLTsYK7YyRS/dgEe2elM=
+github.com/relaytools/interceptor-proxy v0.0.0-20240727194738-773aa3374785 h1:r5JZ101S9iexXYNHYic21PPe3Vva84GlVzKB3EIjPnM=
+github.com/relaytools/interceptor-proxy v0.0.0-20240727194738-773aa3374785/go.mod h1:elN7vIkwyucqGBKlYaWIKFznLTsYK7YyRS/dgEe2elM=
 github.com/tidwall/gjson v1.17.1 h1:wlYEnwqAHgzmhNUFfw7Xalt2JzQvsMx2Se4PcoFCT/U=
 github.com/tidwall/gjson v1.17.1/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
 github.com/tidwall/match v1.1.1 h1:+Ho715JplO36QYgwN9PGYNhgZvoUSc9X2c80KVTi+GA=

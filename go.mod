@@ -2,7 +2,7 @@ module relaytools/interceptor
 
 go 1.22.4
 
-require github.com/relaytools/interceptor-proxy v0.0.0-20240725201320-9201630dadce
+require github.com/relaytools/interceptor-proxy v0.0.0-20240727194738-773aa3374785
 
 require (
 	github.com/btcsuite/btcd/btcec/v2 v2.3.4 // indirect
